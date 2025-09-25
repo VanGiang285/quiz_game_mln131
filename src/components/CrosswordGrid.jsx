@@ -71,7 +71,7 @@ const CrosswordGrid = ({
         );
       })}
       <h3 className="font-bold text-lg mt-6 mb-2 text-center text-gray-800">
-        Final Question
+        Câu hỏi cuối cùng
       </h3>
       <div
         className={`flex justify-center border-2 border-black rounded-md overflow-hidden p-1 ${
