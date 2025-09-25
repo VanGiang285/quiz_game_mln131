@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Điều nào trong Hiến pháp 2013 khẳng định vai trò lãnh đạo của Đảng Cộng sản Việt Nam?",
+      "answer": "DIEU4",
+      "revealColumn": 1
+    },
+    {
+      "id": 2,
+      "question": "Nguyên tắc cốt lõi của Nhà nước pháp quyền là gì? (2 chữ)",
+      "answer": "PHAPLUAT",
+      "revealColumn": 3
+    },
+    {
+      "id": 3,
+      "question": "Trong Nhà nước pháp quyền XHCN, quyền lực nhà nước thuộc về ai?",
+      "answer": "NHANDAN",
+      "revealColumn": 5
+    },
+    {
+      "id": 4,
+      "question": "Đặc điểm khác biệt cơ bản của Nhà nước pháp quyền XHCN Việt Nam so với nhà nước pháp quyền tư sản là đặt dưới sự lãnh đạo của tổ chức nào?",
+      "answer": "DANG",
+      "revealColumn": 7
+    }
+  ],
+  "finalQuestion": {
+    "question": "Ghép các đáp án lại, bạn sẽ tìm ra mô hình đặc trưng mà cả bài thuyết trình đề cập là gì?",
+    "answer": "NHANUOCPHAPQUYEN"
+  }
+}
